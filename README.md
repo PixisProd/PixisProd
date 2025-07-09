@@ -1,7 +1,16 @@
-## Hi there 👋
-# 🚧 Under Construction! 🚧  
+# ✨ PixisProd
 
-Welcome to my GitHub profile!  
+## TXT
+TXT
+
+---
+
+### ⚙️ Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,docker,git,postgres,sklearn,nginx,redis)]()
+
+---
+          
+          
 <!--
 **PixisProd/PixisProd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
