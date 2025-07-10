@@ -39,8 +39,13 @@ That’s why in every project I touch, I try to lay the foundation with the futu
 #### ML/DS stack 📦
 - Scikit Learn
 - Pandas
+
 ---
-          
+
+- 🌱 **Currently exploring**: Machine learning basics
+- 🤝 **Always open** to collaboration and new ideas
+- 💼 **Currently open** to job opportunities.
+- 📫 **How to reach me**: jahongir.hodjaniyazov@gmail.com
           
 <!--
 **PixisProd/PixisProd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
