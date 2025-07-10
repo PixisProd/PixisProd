@@ -5,9 +5,23 @@ TXT
 
 ---
 
-### ⚙️ Languages & Tools
+### ⚙️ Stack
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,docker,git,postgres,sklearn,nginx,redis)]()
-
+#### Languages:
+- Python
+#### Frameworks & Libraries
+- FastAPI
+- SQLAlchemy
+- Pydantic
+- Pytest
+#### Databases & Caching
+- PostgreSQL
+- Redis
+#### DevOps & Tools
+- Docker
+- Alembic
+- Nginx
+- Git
 ---
           
           
