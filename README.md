@@ -6,9 +6,12 @@ TXT
 ---
 
 ### ⚙️ Stack
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,docker,git,postgres,sklearn,nginx,redis)]()
-#### Languages:
-- Python
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,docker,git,postgres,sklearn" />
+  </a>
+</p>  
+
 #### Frameworks & Libraries
 - FastAPI
 - SQLAlchemy
