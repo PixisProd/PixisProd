@@ -43,7 +43,7 @@ I dislike rewriting chunks of code (*not to be confused with refactoring*) just 
 
 ---
 
-- 🌱 **Currently exploring**: Machine learning basics
+- 🌱 **Currently exploring**: Microservices
 - 🤝 **Always open** to collaboration and new ideas
 - 💼 **Currently open** to job opportunities.
 - 📫 **How to reach me**: jahongir.hodjaniyazov@gmail.com
